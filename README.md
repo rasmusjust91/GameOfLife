@@ -1,7 +1,4 @@
 # Conways game of life
-## Content
-
-[TOC]
 
 ## Description
 This is a simple implementation of John Conways famous 2D cellular automata  [Game Of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The scope of the project is to learn about the game, as well as an exercise for implementing algorithms in C++ using [SDL](https://www.libsdl.org/) as engine for visualizing the game
@@ -15,6 +12,7 @@ The initial screen show an empty grid with nxm cells. Default is draw mode, and 
 - Press R, for running the automata
 - Press S, for stopping the automata, and entering draw mode
 - Press C, for clearning the screen for live cells. 
+
 The folloing show an example of a simple game. 
 ![Gameoflife](img/example.png)
 
